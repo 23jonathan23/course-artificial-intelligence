@@ -1,0 +1,7 @@
+1º - Para baixar o NodeJS acesse: https://nodejs.org
+
+2º - Clique sobre o botão verde da esquerda para baixar a última versão estável. Depois clique sobre “Salvar arquivo”.
+
+3º - Se estiver no Windows clique duas vezes sobre o instalador e depois em “Next”, aceite os termos da licença e clique em “Next” novamente e depois clique de novo em “Next” e em “Next”. Por último clique em “Install”. Permita que o aplicativo faça alterações no seu computador e aguarde o término do processo de instalação. No final clique em “Finish”.
+
+4º - Para verificar se a instalação foi bem-sucedida abra o seu Terminal de Linha de Comando (CMD), digite o comando “node --version” (ou “node -v”) e tecle “Enter”. Se na linha seguinte for exibida a versão do NodeJS que você acabou de instalar então a instalação foi feita corretamente e você já poderá utilizá-lo normalmente.
